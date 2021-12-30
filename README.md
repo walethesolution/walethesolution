@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @walethesolution
+- 👋 Hi, I’m Olawale
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning at THINKFUL inc. 
 - 💞️ I’m looking to collaborate on projects that makes me get my practice in...
