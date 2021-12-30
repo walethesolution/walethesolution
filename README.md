@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @walethesolution
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning at THINKFUL inc. 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projects that makes me get my practice in...
 - 📫 How to reach me .... olawaleayejuyone@gmail.com
 
 <!---
