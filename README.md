@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Olawale
-- 👀 I’m interested in solving problems
-- 🌱 I’m currently learning software engineering at THINKFUL inc. 
+- 👀 I’m interested in solving problems 
 - 💞️ I’m looking to collaborate on projects that makes me get my practice in...
 - 📫 How to reach me .... olawaleayejuyone@gmail.com
 
