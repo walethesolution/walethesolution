@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Olawale
 - 👀 I’m interested in mastering the basics 
-- 💞️ I’m looking to collaborate on projects that makes me get my practice in...
+- 💞️ I’m looking to collaborate on complex projects
 - 📫 How to reach me .... olawaleayejuyone@gmail.com
 
 <!---
