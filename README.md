@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Olawale
-- I am a creator.
-- 👀 I’m interested in mastering the basics 
-- 💞️ I’m looking to collaborate on complex projects
+- I am a creator and problem solver.
+- 👀 I’m interested in mastering the basics.
 - 📫 How to reach me .... olawaleayejuyone@gmail.com
 
 ```javascript 
