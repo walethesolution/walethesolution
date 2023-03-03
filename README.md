@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Olawale
-- ```javascript 
+```javascript 
 function learningSomethingNewEveryday(Olawale: Name): Purpose {
   return "I live to learn"; 
 }
